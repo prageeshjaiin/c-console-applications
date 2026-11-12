@@ -1,8 +1,22 @@
-<h3 align="center">Hi 👋, Welcome on my C Programming Language Project Repository</h3>
+# C Console Applications Collection
 
-- ⚡ This Repository is Based on Basic C Projects, which is made by Pragyesh Jain.
-- 🔭 these are the basic Project because I didn't use DSA in it.
-- 💬 Ask me anything related to my Repositories on Issue Section or on my E-mail ID. 
+A collection of terminal-based management, banking, and utility systems built in **C** to demonstrate procedural programming, control structures, and menu-driven state logic.
 
-- 📫 My E-mail ID is **jainpragyeshh@gmail.com**
+## 📂 Included Programs
 
+| File | Description |
+| :--- | :--- |
+| `HDFCBankingSystem.c` | Account management, authentication, balance inquiry, and transaction processing. |
+| `PaytmBankingDepartment.c` | Digital wallet and payment workflow simulation. |
+| `CreditCardDepartment.c` | Credit card limit tracking, billing, and customer account operations. |
+| `RailwayInquiryDepartment.c` | Train schedule lookup, route inquiry, and ticket status simulation. |
+| `BusInquiryDepartment.c` | Intercity bus route and fare inquiry system. |
+| `HotelManagementSystem.c` | Room booking, check-in/check-out, and billing management. |
+| `OnlineEducationColony.c` | Student course enrollment and portal menu system. |
+| `CalculatorSystem.c` | Arithmetic and scientific operations console calculator. |
+
+## ⚙️ How to Compile & Run
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/prageeshjaiin/Basic-projects_C.git](https://github.com/prageeshjaiin/Basic-projects_C.git)
