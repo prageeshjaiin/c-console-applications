@@ -6,14 +6,14 @@ A collection of terminal-based banking, reservation, management, and utility sys
 
 ## 📂 Repository Contents
 
-* **`hdfc_banking_system.c`** — Menu-driven banking system supporting user authentication, balance inquiry, deposits, and withdrawals[span_6](start_span)[span_6](end_span).
-* **`paytm_banking_system.c`** — Digital wallet workflow simulation for account transfers and transaction tracking[span_7](start_span)[span_7](end_span).
-* **`credit_card_management.c`** — Credit card management utility covering credit limits, billing cycles, and cardholder operations[span_8](start_span)[span_8](end_span).
-* **`railway_inquiry_system.c`** — Terminal inquiry system for checking train schedules, routes, and reservation details[span_9](start_span)[span_9](end_span).
-* **`bus_inquiry_system.c`** — Intercity bus schedule, route lookup, and fare calculation system[span_10](start_span)[span_10](end_span).
-* **`hotel_management_system.c`** — Console management tool for room availability, guest check-in/check-out, and billing[span_11](start_span)[span_11](end_span).
-* **`online_education_portal.c`** — Interactive course catalog and student registration menu system[span_12](start_span)[span_12](end_span).
-* **`calculator_system.c`** — Command-line calculator supporting standard arithmetic and mathematical operations[span_13](start_span)[span_13](end_span).
+* **`hdfc_banking_system.c`** — Menu-driven banking system supporting user authentication, balance inquiry, deposits, and withdrawals.
+* **`paytm_banking_system.c`** — Digital wallet workflow simulation for account transfers and transaction tracking.
+* **`credit_card_management.c`** — Credit card management utility covering credit limits, billing cycles, and cardholder operations.
+* **`railway_inquiry_system.c`** — Terminal inquiry system for checking train schedules, routes, and reservation details.
+* **`bus_inquiry_system.c`** — Intercity bus schedule, route lookup, and fare calculation system.
+* **`hotel_management_system.c`** — Console management tool for room availability, guest check-in/check-out, and billing.
+* **`online_education_portal.c`** — Interactive course catalog and student registration menu system.
+* **`calculator_system.c`** — Command-line calculator supporting standard arithmetic and mathematical operations.
 
 ---
 
