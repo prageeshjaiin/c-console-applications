@@ -1,6 +1,6 @@
 # 🖥️ C Console Applications Collection
 
-A collection of terminal-based banking, reservation, management, and utility systems developed in **C**[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span). These console applications demonstrate procedural programming, modular function design, control flow, and menu-driven state logic.
+A collection of terminal-based banking, reservation, management, and utility systems developed in **C**. These console applications demonstrate procedural programming, modular function design, control flow, and menu-driven state logic.
 
 ---
 
@@ -62,7 +62,7 @@ To compile and run these programs locally, ensure you have a C compiler installe
 
 ## 📫 Connect & Contact
 
-* **Author:** Pragyesh Jain[span_10](start_span)[span_10](end_span)
-* **GitHub:** [@prageeshjaiin](https://github.com/prageeshjaiin)[span_11](start_span)[span_11](end_span)
-* **LinkedIn:** [linkedin.com/in/prageeshjaiin](https://www.linkedin.com/in/prageeshjaiin)[span_12](start_span)[span_12](end_span)
-* **Email:** pragyeshjain28@gmail.com[span_13](start_span)[span_13](end_span)
+* **Author:** Pragyesh Jain
+* **GitHub:** [@prageeshjaiin](https://github.com/prageeshjaiin)
+* **LinkedIn:** [linkedin.com/in/prageeshjaiin](https://www.linkedin.com/in/prageeshjaiin)
+* **Email:** pragyeshjain28@gmail.com
